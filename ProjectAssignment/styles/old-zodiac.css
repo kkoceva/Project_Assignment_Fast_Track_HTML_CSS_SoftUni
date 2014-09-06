@@ -1,0 +1,25 @@
+﻿img{
+  width:30%;
+ height:100%;
+  float:left;
+  padding:5%;
+}
+
+article:after {
+    clear:both;
+    content:"";
+    display:block;
+}
+
+article {
+    margin: 10%;
+}
+
+article header h4 {
+    color: #b4c6e2
+}
+
+
+p {
+    padding:2%;
+}
